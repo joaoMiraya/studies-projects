@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joaomiraya/projects/estudos/alg/Algorithims/Algorithims.csproj": {}
+    "/home/joaomiraya/projects/estudos/facul/csharp/Algorithims/Algorithims.csproj": {}
   },
   "projects": {
-    "/home/joaomiraya/projects/estudos/alg/Algorithims/Algorithims.csproj": {
+    "/home/joaomiraya/projects/estudos/facul/csharp/Algorithims/Algorithims.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaomiraya/projects/estudos/alg/Algorithims/Algorithims.csproj",
+        "projectUniqueName": "/home/joaomiraya/projects/estudos/facul/csharp/Algorithims/Algorithims.csproj",
         "projectName": "Algorithims",
-        "projectPath": "/home/joaomiraya/projects/estudos/alg/Algorithims/Algorithims.csproj",
+        "projectPath": "/home/joaomiraya/projects/estudos/facul/csharp/Algorithims/Algorithims.csproj",
         "packagesPath": "/home/joaomiraya/.nuget/packages/",
-        "outputPath": "/home/joaomiraya/projects/estudos/alg/Algorithims/obj/",
+        "outputPath": "/home/joaomiraya/projects/estudos/facul/csharp/Algorithims/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaomiraya/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
